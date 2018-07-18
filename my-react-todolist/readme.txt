@@ -28,6 +28,14 @@ create test.js
 
 
 
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-2-8d4cb2dc154c
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-3-f25c2289c54
+https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-4-edb62e113c9b
+
+https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react
+
+
 
 
 
